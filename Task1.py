@@ -12,7 +12,7 @@ c = []
 c.append(1)
 c.append(2)
 c.append(3)
-c[0] = 0
+c[0] = 00
 
 d = c.copy()
 c.append(4)
